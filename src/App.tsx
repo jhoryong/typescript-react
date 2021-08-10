@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
-          자동배포 성공!!!!!
+          다시한번 더 자동배포
         </p>
         <a
           className="App-link"
